@@ -1,0 +1,1 @@
+Este programa resuelve el ejercicio de los cofres de plata y oro
